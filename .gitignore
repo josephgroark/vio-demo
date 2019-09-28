@@ -1,0 +1,8 @@
+# See https://git-scm.com/docs/gitignore for detailed pattern documentation.
+
+# Dependencies
+/node_modules
+
+# Cypress test run output
+/cypress/videos
+/cypress/screenshots
