@@ -12,8 +12,10 @@
   "license": "ISC",
   "devDependencies": {
     "@percy/cypress": "^2.1.1",
+    "axe-core": "^3.3.2",
     "chromium": "^2.1.1",
-    "cypress": "^3.4.1"
+    "cypress": "^3.4.1",
+    "cypress-axe": "^0.5.1"
   },
   "dependencies": {}
 }
