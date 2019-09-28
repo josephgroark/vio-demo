@@ -1,10 +1,10 @@
-##Installation
+## Installation
 
 1. clone project
 2. cd ./VIO-DEMO
 3. npm install (expect a longer install)
 
-#Cypress
+# Cypress
 cypress open
 (opens cypress dashboard)
 
@@ -14,9 +14,9 @@ cypress run
 npm test
 visual regression + accessibility
 
-#Percy
+# Percy
 Joey will sent you an invite to a project, here you will see the comparsion tool for visual regression working
 
-#CI 
+# CI 
 These can both be integrated easily into a build pipeline
 
