@@ -1,19 +1,21 @@
 {
   "name": "demo",
-  "version": "1.0.0",
+  "version": "1.1.4",
   "description": "",
   "main": "index.js",
   "scripts": {
     "cypress:open": "cypress open",
     "cypress:run": "cypress run",
-    "test": "percy exec -- cypress run"
+    "test": "percy exec -- cypress run --spec 'cypress/integration/basic-demo.js'"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@percy/cypress": "^2.1.1",
+    "axe-core": "^3.3.2",
     "chromium": "^2.1.1",
-    "cypress": "^3.4.1"
+    "cypress": "^3.4.1",
+    "cypress-axe": "^0.5.1"
   },
   "dependencies": {}
 }
