@@ -10,4 +10,8 @@ describe('Demo Visual Regression test', function () {
     it('Has no detectable a11y violations on load (custom configuration)', () => {
         cy.checkA11y()
     })
+
+    it('can login with route', () =>{
+        cy.loginUserName()
+    })
 })
