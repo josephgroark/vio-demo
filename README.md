@@ -1,3 +1,5 @@
+[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/Joey-G/demo)
+
 ## Installation
 
 1. clone project
@@ -19,4 +21,5 @@ Joey will sent you an invite to a project, here you will see the comparsion tool
 
 # CI 
 These can both be integrated easily into a build pipeline
+
 
