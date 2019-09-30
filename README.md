@@ -26,3 +26,4 @@ These can both be integrated easily into a build pipeline
 https://percy.io/join/gCKdkX5k0AcVqDVNMS-Y
 
 
+PERCY_TOKEN=f2c1ff753d946776dcd33aaa5fbe14f1730ac56e943bc21a50673b450249e75a
