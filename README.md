@@ -1,4 +1,4 @@
-[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/Joey-G/visual-demo)
+[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/Joey-G/VIO-DEMO)
 [![Build Status](https://travis-ci.org/josephgroark/vio-demo.svg?branch=tutorial-example)](https://travis-ci.org/josephgroark/vio-demo)
 
 ## Installation
