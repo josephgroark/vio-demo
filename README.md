@@ -22,13 +22,3 @@ Joey will sent you an invite to a project, here you will see the comparsion tool
 
 # CI 
 These can both be integrated easily into a build pipeline
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
-https://percy.io/join/gCKdkX5k0AcVqDVNMS-Y
-
-
->>>>>>> readme ammend
-=======
->>>>>>> readme ammend
