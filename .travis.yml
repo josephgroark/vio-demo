@@ -16,7 +16,8 @@ cache:
 install:
   - npm ci
 script:
+  - npm install
   - npm test
 after_success:
   # - ./deploy.sh # TODO(you): deploy the PR changes to your staging server.
-  - npm run lh --a11y --runner=wpt https://demo.viosystems.com/
+  - npm run lh -- --a11y https://demo.viosystems.com/
