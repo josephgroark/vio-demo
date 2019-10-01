@@ -1,13 +1,21 @@
 {
   "name": "demo",
+<<<<<<< HEAD
   "version": "1.1.5",
+=======
+  "version": "1.1.4",
+>>>>>>> added ally checks
   "description": "",
   "main": "index.js",
   "scripts": {
     "cypress:open": "cypress open",
     "cypress:run": "cypress run",
+<<<<<<< HEAD
     "test": "percy exec -- cypress run --spec 'cypress/integration/basic-demo.js'",
     "lh": "lighthousebot"
+=======
+    "test": "percy exec -- cypress run --spec 'cypress/integration/basic-demo.js'"
+>>>>>>> added ally checks
   },
   "author": "",
   "license": "ISC",
@@ -16,8 +24,12 @@
     "axe-core": "^3.3.2",
     "chromium": "^2.1.1",
     "cypress": "^3.4.1",
+<<<<<<< HEAD
     "cypress-axe": "^0.5.1",
     "lighthousebot": "git+https://github.com/GoogleChromeLabs/lighthousebot.git"
+=======
+    "cypress-axe": "^0.5.1"
+>>>>>>> added ally checks
   },
   "dependencies": {}
 }

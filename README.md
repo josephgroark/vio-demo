@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/Joey-G/VIO-DEMO)
+=======
+[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/Joey-G/visual-demo)
+>>>>>>> added ally checks
 [![Build Status](https://travis-ci.org/josephgroark/vio-demo.svg?branch=tutorial-example)](https://travis-ci.org/josephgroark/vio-demo)
 
 ## Installation
@@ -22,3 +26,8 @@ Joey will sent you an invite to a project, here you will see the comparsion tool
 
 # CI 
 These can both be integrated easily into a build pipeline
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> added ally checks
